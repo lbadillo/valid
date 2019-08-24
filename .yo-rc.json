@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.valid.example"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "Valid",
+    "packageName": "com.valid.example",
+    "packageFolder": "com/valid/example",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjY3YmU2M2FhNGEwNjQ3NTc5MjU0NDIxYmY5MzM1MTczNzE5ZGM2ZTA0YWY0NjgxMWJmNjU1NDdjNjA2MjRjMzY2MmY5YWY3NGViNzY0ZDkxNjQ2MDkwZDg2ZDNkMzVjNzhiZDhiYTJjYjNmMjk5YWQzNTg0Zjk1NmU0MTk4ZGY=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
